@@ -7,7 +7,7 @@
 
 ## About myself:
 
-I'm eager to learn front-end development. Currently working as an ecologist in aviation.
+Currently working as an ecologist in aviation. I'm eager to learn front-end development. 
 
 ## Code example:
 
